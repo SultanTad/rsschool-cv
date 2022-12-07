@@ -2,6 +2,8 @@
 *****
 
 **Contact information:**
+
+
 **Phone:** 8989-88-555-76
 **E-mail:** sultan.tadzhidinov@gmail.com
 **Telegram:** @SultanTadzhidinov
@@ -43,7 +45,13 @@ for i in genome:
     x += 1
     genome2 = genome[x:x + 1]
 ```
+***
+## Courses:
+* Programming in Python on https://stepik.org
+* The Flask Web Framework: An Introduction on https://stepik.org
+* NodeJS - from scratch, basics and application architecture building on https://purpleschool.ru/
 
+***
 Now a little about my education. I am not a programmer by education, I am an accountant-economist. I studied 3 years in college, then 3 years at the university and then worked in my specialty, but then I decided to change my field of activity.
 
 As for English, it’s not very good, I studied it both at school and at the university, but due to the fact that I stopped studying it, it worsened significantly, so I need to improve my English
